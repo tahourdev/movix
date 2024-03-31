@@ -1,0 +1,56 @@
+{
+  // "eslint.timeBudget.onValidation": {
+  //   "warn": 4000,
+  //   "error": 8000
+  // },
+  // "files.associations": { "*.scss": "postcss" },
+
+  // "typescript.suggest.includeAutomaticOptionalChainCompletions": true,
+
+  // "indentRainbow.colorOnWhiteSpaceOnly": true,
+
+  // "[html]": {
+  //   "editor.defaultFormatter": "vscode.html-language-features"
+  // },
+
+  "turboConsoleLog.quote": "'",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll.eslint": "explicit"
+  // },
+  "eslint.options": {
+    "extensions": [".js", ".jsx", ".md", ".mdx", ".ts", ".tsx"]
+  },
+  // "eslint.validate": ["markdown", "mdx", "javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "vsintellicode.modelDownloadPath": "",
+  // "editor.inlineSuggest.suppressSuggestions": true,
+
+  "[scss]": {
+    // "editor.defaultFormatter": "VisualStudioExptTeam.vscodeintellicode",
+    // "editor.defaultFoldingRangeProvider": "VisualStudioExptTeam.vscodeintellicode",
+    "editor.colorDecorators": true
+  },
+
+  // "[javascript]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+
+  // "html-css-class-completion.JavaScriptLanguages": ["javascript", "javascriptreact", "typescriptreact"],
+
+  // "editor.snippetSuggestions": "top",
+  // "editor.formatOnPaste": true,
+
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // "editor.suggest.shareSuggestSelections": true,
+
+  // "css_completions_scope": "source.scss - comment - variable - keyword.control - entity.other, source.sass - comment - variable - keyword.control - entity.other",
+
+  "sass.andStared": ["active", "focus", "hover", "nth-child"]
+}
